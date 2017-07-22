@@ -1,0 +1,6 @@
+C:\Users\TrishTony\documents\visual studio 2017\Projects\AmazonInterview\ConsoleApp1\obj\Debug\AmzMain.csprojResolveAssemblyReference.cache
+C:\Users\TrishTony\documents\visual studio 2017\Projects\AmazonInterview\ConsoleApp1\bin\Debug\AmzMain.exe.config
+C:\Users\TrishTony\documents\visual studio 2017\Projects\AmazonInterview\ConsoleApp1\bin\Debug\AmzMain.exe
+C:\Users\TrishTony\documents\visual studio 2017\Projects\AmazonInterview\ConsoleApp1\bin\Debug\AmzMain.pdb
+C:\Users\TrishTony\documents\visual studio 2017\Projects\AmazonInterview\ConsoleApp1\obj\Debug\AmzMain.exe
+C:\Users\TrishTony\documents\visual studio 2017\Projects\AmazonInterview\ConsoleApp1\obj\Debug\AmzMain.pdb
